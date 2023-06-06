@@ -1,0 +1,54 @@
+
+
+.cabecalho{
+    background-color: #810D60;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px 0;
+}
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.cabecalho-imagem{
+    width: 5%;
+    margin: 0;
+
+}
+
+.cabecalho-item {
+    display: block;
+    margin: 0 16px;
+    font-size: 15px;
+ 
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.matematica-imagem{
+    width: 25%;
+    margin: 0;
+}
+
+.MatematicaII{
+    background-image: linear-gradient(#d20999  #ff05b8);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.matematica-div-conteudo{
+    width: 35%;
+}
+.matematica-titulo{
+    padding: 24px 0;
+}
+.estudante-imagem{
+    width: 120px;
+}
